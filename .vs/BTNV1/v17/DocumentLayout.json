@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C Sharp project\\BTNV1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E154D7C-9501-4065-916B-05EFD1124641}|BTNV1.csproj|d:\\c sharp project\\btnv1\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E154D7C-9501-4065-916B-05EFD1124641}|BTNV1.csproj|solutionrelative:bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E154D7C-9501-4065-916B-05EFD1124641}|BTNV1.csproj|d:\\c sharp project\\btnv1\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E154D7C-9501-4065-916B-05EFD1124641}|BTNV1.csproj|solutionrelative:bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E154D7C-9501-4065-916B-05EFD1124641}|BTNV1.csproj|d:\\c sharp project\\btnv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E154D7C-9501-4065-916B-05EFD1124641}|BTNV1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai2.cs",
+              "DocumentMoniker": "D:\\C Sharp project\\BTNV1\\Bai2.cs",
+              "RelativeDocumentMoniker": "Bai2.cs",
+              "ToolTip": "D:\\C Sharp project\\BTNV1\\Bai2.cs",
+              "RelativeToolTip": "Bai2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T04:55:17.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai1.cs",
+              "DocumentMoniker": "D:\\C Sharp project\\BTNV1\\Bai1.cs",
+              "RelativeDocumentMoniker": "Bai1.cs",
+              "ToolTip": "D:\\C Sharp project\\BTNV1\\Bai1.cs",
+              "RelativeToolTip": "Bai1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T03:13:59.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C Sharp project\\BTNV1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C Sharp project\\BTNV1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T03:03:02.796Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

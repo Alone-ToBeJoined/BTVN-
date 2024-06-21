@@ -1,0 +1,14 @@
+D:\C Sharp project\BTNV1\bin\Debug\net8.0\BTNV1.exe
+D:\C Sharp project\BTNV1\bin\Debug\net8.0\BTNV1.deps.json
+D:\C Sharp project\BTNV1\bin\Debug\net8.0\BTNV1.runtimeconfig.json
+D:\C Sharp project\BTNV1\bin\Debug\net8.0\BTNV1.dll
+D:\C Sharp project\BTNV1\bin\Debug\net8.0\BTNV1.pdb
+D:\C Sharp project\BTNV1\obj\Debug\net8.0\BTNV1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp project\BTNV1\obj\Debug\net8.0\BTNV1.AssemblyInfoInputs.cache
+D:\C Sharp project\BTNV1\obj\Debug\net8.0\BTNV1.AssemblyInfo.cs
+D:\C Sharp project\BTNV1\obj\Debug\net8.0\BTNV1.csproj.CoreCompileInputs.cache
+D:\C Sharp project\BTNV1\obj\Debug\net8.0\BTNV1.dll
+D:\C Sharp project\BTNV1\obj\Debug\net8.0\refint\BTNV1.dll
+D:\C Sharp project\BTNV1\obj\Debug\net8.0\BTNV1.pdb
+D:\C Sharp project\BTNV1\obj\Debug\net8.0\BTNV1.genruntimeconfig.cache
+D:\C Sharp project\BTNV1\obj\Debug\net8.0\ref\BTNV1.dll
